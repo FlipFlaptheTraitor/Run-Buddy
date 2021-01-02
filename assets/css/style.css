@@ -247,6 +247,9 @@ margin: 0;
 .text-right {
   text-align: right;
 }
+.flex-row {
+  display: flex;
+}
 .trainer-bio h3 {
   font-size: 32px;
   margin-bottom: 8px;
